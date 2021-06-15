@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpolena
-- 👀 I’m interested in Deep Learning, Biomedical Informatics and Automation.
+- 👀 I’m interested in Deep Learning, Biomedical Informatics, Automation and Finance.
 - 🌱 I’m currently learning Go and Clojure.
 - 💞️ I’m looking to collaborate on DL and Automation projects.
 - 📫 How to reach me: mikel.polena@gmail.com or via LinkedIn 
