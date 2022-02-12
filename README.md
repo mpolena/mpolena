@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mpolena
+- 👋 Hi, I’m @mpolena 💻
 - 👀 I’m interested in Deep Learning, Biomedical Informatics, Automation and Finance.
-- 🌱 I’m currently learning Go and Clojure.
-- 💞️ I’m looking to collaborate on DL and Automation projects.
-- 📫 How to reach me: mikel.polena@gmail.com or via LinkedIn 
+- 🌱 I’m currently learning Rust/Go/Clojure.
+- 📫 How to reach me: mikel.polena@gmail.com or via LinkedIn: https://www.linkedin.com/in/mikel-polena/ 
 
 <!---
 mpolena/mpolena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
